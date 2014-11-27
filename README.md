@@ -1,8 +1,8 @@
 # Rel Nofollow Checkbox
 
-This is a simple WordPress plugin to add a checkbox in the insert/edit link popup for including ***nofollow***.
+This is a simple WordPress plugin to add a checkbox in the insert/edit link popup for including `nofollow` attribute.
 
-Compatible with WordPress 4.0.1
+Compatible with **WordPress v4.0.1**.
 
 
 ## Screenshots
@@ -12,9 +12,9 @@ Compatible with WordPress 4.0.1
 
 ## Installation
 
-1. Download the latest zip file and extract the ***rel-nofollow-checkbox*** directory.
-2. Upload it to your ***/wp-content/plugins/*** directory.
-3. Activate ***Rel Nofollow Checkbox*** on the ***Plugins*** menu in WordPress.
+1. Download the latest zip file and extract the `rel-nofollow-checkbox` directory.
+2. Upload it to your `/wp-content/plugins/` directory.
+3. Activate `Rel Nofollow Checkbox` on the `Plugins` menu in WordPress.
 
 
 ## License
