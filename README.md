@@ -7,7 +7,7 @@ Compatible with **WordPress v4.0.1**.
 
 ## Screenshots
 
-![Screenshot 1](sources/screenshot-1.png)
+![Screenshot 1](source/screenshot-1.png)
 
 
 ## Installation
