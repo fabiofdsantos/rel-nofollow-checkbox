@@ -7,10 +7,10 @@ Stable tag: 1.0.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds a checkbox in the insert/edit link popup for including ***nofollow*** attribute.
+Adds a checkbox in the insert/edit link popup for including rel="nofollow".
 
 == Description ==
-This plugin adds a simple checkbox in the insert/edit link popup for including ***nofollow***.
+This plugin adds a simple checkbox in the insert/edit link popup for including ***nofollow*** attribute.
 
 == Installation ==
 1. Download the latest zip file and extract the ***rel-nofollow-checkbox*** directory.
