@@ -2,7 +2,7 @@
 
 This is a simple WordPress plugin to add a checkbox in the insert/edit link popup for including `nofollow` attribute.
 
-Compatible with **WordPress v4.0.1**.
+Compatible up to **WordPress v4.1**.
 
 
 ## Screenshots
