@@ -2,8 +2,8 @@
 Contributors: ffsantos92
 Tags: nofollow,checkbox,option,link relation,rel attribute,seo,rel
 Requires at least: 3.2
-Tested up to: 4.1
-Stable tag: 1.0.2
+Tested up to: 4.2
+Stable tag: 1.1.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,6 +32,9 @@ Just check the ***rel="nofollow"*** option under the default ***open link in a n
 
 
 == Changelog ==
+
+= 1.1.0 =
+* Compatible with WordPress 4.2
 
 = 1.0.2 =
 * Compatible with WordPress 4.0.1, 4.1
