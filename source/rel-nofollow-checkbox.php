@@ -3,9 +3,9 @@
  * Plugin Name: Rel Nofollow Checkbox
  * Plugin URI:  https://github.com/ffsantos92/rel-nofollow-checkbox
  * Description: This plugin adds a simple checkbox in the insert/edit link popup for including nofollow attribute.
- * Version:     1.0.2
+ * Version:     1.1.0
  * Author:      Fabio Santos
- * Author URI:  http://www.fabiosantos.pt
+ * Author URI:  http://www.fabiosantos.me
  */
 function overwrite_wplink() {
 	// Disable wplink
