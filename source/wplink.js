@@ -1,5 +1,5 @@
 /* rel-nofollow-checkbox v1.1.0 | GPLv2 License | by fabiosantos.me */
-/* global ajaxurl, tinymce, wpLinkL10n, setUserSetting, wpActiveEdietor */
+/* global ajaxurl, tinymce, wpLinkL10n, setUserSetting, wpActiveEditor */
 var wpLink;
 
 ( function( $ ) {
@@ -21,9 +21,9 @@ var wpLink;
 		textarea: '',
 
 		init: function() {
-		  var fsRelHtml = '<div><label><span> </span><input type="checkbox" id="rel-nofollow-checkbox" /><strong> rel="nofollow"</strong></label></div>';
-      $(fsRelHtml).insertAfter('#wp-link .link-target');
-      $('#wp-link-wrap').css('min-height','310px');
+		  	var fsRelHtml = '<div><label><span> </span><input type="checkbox" id="rel-nofollow-checkbox" /><strong> rel="nofollow"</strong></label></div>';
+      			$(fsRelHtml).insertAfter('#wp-link .link-target');
+      			$('#wp-link-wrap').css('min-height','310px');
       
 			inputs.wrap = $('#wp-link-wrap');
 			inputs.dialog = $( '#wp-link' );
