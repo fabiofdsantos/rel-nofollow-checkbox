@@ -27,6 +27,10 @@ var wpLink;
             $('#wp-link-wrap')
                 .css('min-height', '310px');
 
+            var fsTitleHtml = '<div><label><span>Link Title</span><input id="fs-title" type="text"></label></div>';
+            $(fsTitleHtml)
+                .insertAfter('wp-link-text-field');
+
             inputs.wrap = $('#wp-link-wrap');
             inputs.dialog = $('#wp-link');
             inputs.backdrop = $('#wp-link-backdrop');
@@ -38,6 +42,7 @@ var wpLink;
             inputs.url = $('#wp-link-url');
             inputs.nonce = $('#_ajax_linking_nonce');
             inputs.fsRelNofollow = $('#rel-nofollow-checkbox');
+            inputs.fsTitle = $('#fs-title');
             inputs.openInNewTab = $('#wp-link-target');
             inputs.search = $('#wp-link-search');
 
@@ -245,6 +250,7 @@ var wpLink;
                 inputs.url.val(editor.dom.getAttrib(linkNode, 'href'));
                 inputs.openInNewTab.prop('checked', '_blank' === editor.dom.getAttrib(linkNode, 'target'));
                 inputs.fsRelNofollow.prop('checked', 'nofollow' === editor.dom.getAttrib(linkNode, 'rel'));
+                inputs.fsTitle.val(editor.dom.getAttrib(linkNode, 'title'));
                 inputs.submit.val(wpLinkL10n.update);
             } else {
                 text = editor.selection.getContent({
@@ -290,7 +296,8 @@ var wpLink;
             return {
                 href: $.trim(inputs.url.val()),
                 target: inputs.openInNewTab.prop('checked') ? '_blank' : '',
-                rel: inputs.fsRelNofollow.prop('checked') ? 'nofollow' : ''
+                rel: inputs.fsRelNofollow.prop('checked') ? 'nofollow' : '',
+                title: inputs.fsTitle.val(),
             };
         },
 
