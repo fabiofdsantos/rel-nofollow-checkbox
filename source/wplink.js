@@ -1,4 +1,4 @@
-/* rel-nofollow-checkbox v1.1.1 | GPLv2 License | by fabiosantos.me */
+/* rel-nofollow-checkbox v1.1.2 | GPLv2 License | by fabiosantos.me */
 /* global ajaxurl, tinymce, wpLinkL10n, setUserSetting, wpActiveEditor */
 var wpLink;
 
