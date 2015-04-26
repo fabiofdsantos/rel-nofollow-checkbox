@@ -1,6 +1,6 @@
 # Rel Nofollow Checkbox
 
-This is a simple WordPress plugin to add a checkbox in the insert/edit link popup for including `nofollow` attribute. Since v1.1.2 it adds an option for the link title attribute.
+This is a simple WordPress plugin to add a checkbox in the insert/edit link popup for including `nofollow` attribute. Since v1.1.2 it also adds an option for the link title attribute.
 
 Compatible up to **WordPress v4.2**.
 
