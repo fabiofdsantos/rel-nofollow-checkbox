@@ -1,16 +1,16 @@
 === Rel Nofollow Checkbox ===
 Contributors: ffsantos92
-Tags: nofollow,checkbox,option,link relation,rel attribute,seo,rel
+Tags: nofollow,checkbox,option,title attribute,rel attribute,seo,title,rel
 Requires at least: 3.2
 Tested up to: 4.2
 Stable tag: 1.1.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds a checkbox in the insert/edit link popup for including rel="nofollow".
+Adds a checkbox in the insert/edit link popup for including rel="nofollow". It also adds an option for the link title attribute.
 
 == Description ==
-This plugin adds a simple checkbox in the insert/edit link popup for including ***nofollow*** attribute.
+This plugin adds a simple checkbox in the insert/edit link popup for including ***nofollow*** attribute. Since v1.1.2 it also adds an option for the link title attribute.
 
 == Installation ==
 1. Download the latest zip file and extract the ***rel-nofollow-checkbox*** directory.
@@ -18,10 +18,10 @@ This plugin adds a simple checkbox in the insert/edit link popup for including *
 3. Activate ***Rel Nofollow Checkbox*** on the ***Plugins*** menu in WordPress.
 
 == Frequently Asked Questions ==
-= what is NoFollow? =
+= What is nofollow? =
 When the search engine spider sees nofollow on the link, it does not follow that link to the new site; not count the link towards it's popularity score in their ranking engine; and not include the link text in the relevancy score for those keywords. so, search engines will not penalize your site or blog for links that have nofollow on them.
 
-= How do I nofollow links? =
+= How do i nofollow links? =
 Just check the ***rel="nofollow"*** option under the default ***open link in a new window/tab*** option.
 
 
