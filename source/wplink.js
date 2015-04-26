@@ -29,7 +29,7 @@ var wpLink;
 
             var fsTitleHtml = '<div><label><span>Link Title</span><input id="fs-title" type="text"></label></div>';
             $(fsTitleHtml)
-                .insertAfter('wp-link-text-field');
+                .insertAfter('.wp-link-text-field');
 
             inputs.wrap = $('#wp-link-wrap');
             inputs.dialog = $('#wp-link');
