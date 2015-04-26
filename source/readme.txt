@@ -1,6 +1,6 @@
 === Rel Nofollow Checkbox ===
 Contributors: ffsantos92
-Tags: nofollow,checkbox,option,link relation,rel attribute,seo,rel
+Tags: nofollow,checkbox,option,title attribute,rel attribute,seo,title,rel
 Requires at least: 3.2
 Tested up to: 4.2
 Stable tag: 1.1.2
