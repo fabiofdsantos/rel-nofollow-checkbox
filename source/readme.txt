@@ -3,14 +3,14 @@ Contributors: ffsantos92
 Tags: nofollow,checkbox,option,title attribute,rel attribute,seo,title,rel
 Requires at least: 4.2
 Tested up to: 4.2
-Stable tag: 1.1.3
+Stable tag: 1.1.4
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds a checkbox in the insert/edit link popup for including rel="nofollow". It also adds an option for the link title attribute.
+Adds a checkbox in the insert/edit link popup for including rel="nofollow".
 
 == Description ==
-This plugin adds a simple checkbox in the insert/edit link popup for including ***nofollow*** attribute. Since v1.1.2 it also adds an option for the link title attribute.
+This plugin adds a simple checkbox in the insert/edit link popup for including ***nofollow*** attribute.
 
 == Installation ==
 1. Download the latest zip file and extract the ***rel-nofollow-checkbox*** directory.
@@ -32,6 +32,10 @@ Just check the ***rel="nofollow"*** option under the default ***open link in a n
 
 
 == Changelog ==
+
+= 1.1.4 =
+* Remove option for the link title attribute
+* Fix css issues
 
 = 1.1.3 =
 * Minor fix
