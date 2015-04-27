@@ -24,8 +24,8 @@ var wpLink;
             var fsRelHtml = '<div><label><span> </span><input type="checkbox" id="rel-nofollow-checkbox" /><strong> rel="nofollow"</strong></label></div>';
             $(fsRelHtml)
                 .insertAfter('#wp-link .link-target');
-            $('#wp-link-wrap')
-                .css('min-height', '310px');
+            $('.query-results')
+                .css('top', '230px');
 
             inputs.wrap = $('#wp-link-wrap');
             inputs.dialog = $('#wp-link');
