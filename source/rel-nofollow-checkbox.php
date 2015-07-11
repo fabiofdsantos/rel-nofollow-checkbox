@@ -5,7 +5,7 @@
  * Description: This plugin adds a simple checkbox in the insert/edit link popup for including nofollow attribute.
  * Version:     1.1.4
  * Author:      Fabio Santos
- * Author URI:  http://www.fabiosantos.me.
+ * Author URI:  http://www.fabiosantos.me
  */
 function overwrite_wplink()
 {
