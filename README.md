@@ -19,5 +19,5 @@ Compatible up to **WordPress v4.2.1**.
 
 ## License
 
-Copyright (c) 2015 [Fábio Santos](http://www.fabiosantos.pt). See the LICENSE
+Copyright (c) 2015 [Fábio Santos](http://www.fabiosantos.me). See the LICENSE
 file for license rights and limitations (GPLv2).
