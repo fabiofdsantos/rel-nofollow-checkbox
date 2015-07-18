@@ -1,8 +1,8 @@
 # Rel Nofollow Checkbox
 
-This is a simple WordPress plugin to add a checkbox in the insert/edit link popup for including `nofollow` attribute.
+[![WordPress](https://img.shields.io/wordpress/plugin/dt/rel-nofollow-checkbox.svg)](https://wordpress.org/plugins/rel-nofollow-checkbox/) [![WordPress rating](https://img.shields.io/wordpress/plugin/r/rel-nofollow-checkbox.svg)](https://wordpress.org/plugins/rel-nofollow-checkbox/) [![WordPress plugin](https://img.shields.io/wordpress/plugin/v/red/rel-nofollow-checkbox.svg)](https://wordpress.org/plugins/rel-nofollow-checkbox/) [![WordPress](https://img.shields.io/wordpress/v/rel-nofollow-checkbox.svg)](https://wordpress.org/plugins/rel-nofollow-checkbox/) [![GitHub license](https://img.shields.io/badge/license-GPLv2-blue.svg)](https://raw.githubusercontent.com/ffsantos92/rel-nofollow-checkbox/master/LICENSE)
 
-Compatible up to **WordPress v4.2.1**.
+This is a simple WordPress plugin to add a checkbox in the insert/edit link popup for including `nofollow` attribute.
 
 
 ## Screenshots
