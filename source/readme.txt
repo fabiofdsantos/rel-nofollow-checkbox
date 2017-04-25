@@ -1,9 +1,9 @@
 === Rel Nofollow Checkbox ===
 Contributors: ffsantos92
 Tags: nofollow,checkbox,option,title attribute,rel attribute,seo,title,rel
-Requires at least: 4.2
-Tested up to: 4.2.1
-Stable tag: 1.1.4
+Requires at least: 4.7
+Tested up to: 4.7.4
+Stable tag: 1.1.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,6 +32,9 @@ Just check the ***rel="nofollow"*** option under the default ***open link in a n
 
 
 == Changelog ==
+
+= 1.1.5 =
+* Compatible with WordPress 4.7 (credits: Daniel Liljeberg)
 
 = 1.1.4 =
 * Remove option for the link title attribute
